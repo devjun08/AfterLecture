@@ -46,3 +46,5 @@
 
   - [AfterLecture](https://github.com/wcboy/AfterLecture)
     — 강의 자료와 녹음 대본을 연결해 페이지별 설명을 생성하는 구조를 참고합니다.
+
+추후 과제: Local LLM Quantization
